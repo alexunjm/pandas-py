@@ -1,0 +1,8 @@
+{
+    "gitflow4code.releases": [
+        {
+            "name": "release/Series-and-Dataframes",
+            "base": "develop"
+        }
+    ]
+}
